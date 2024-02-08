@@ -1,4 +1,4 @@
-# Welcome to @Melvar1's GitHub Profile!**
+# Welcome to @Melvar1's GitHub Profile!
 
 
 Hey there! 👋 I'm Melissa, a passionate software engineering enthusiast currently honing my skills at TripleTen. Here's a little bit about me:
